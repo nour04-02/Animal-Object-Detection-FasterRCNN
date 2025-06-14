@@ -12,17 +12,7 @@ Install dependencies:pip install -r requirements.txt
 
 Dataset Setup
 
-Download the Open Images V7 dataset using the link in link_to_Dataset.txt.
-Organize the dataset as follows:Dataset/
-├── train/
-│   ├── Bird/
-│   ├── Cat/
-│   └── ... (other classes)
-├── validation/
-├── test/
-├── normalized_train.csv
-├── normalized_validation.csv
-└── normalized_test.csv
+Download the dataset that from Open Images V7 dataset using the link in link_to_Dataset.txt.
 
 
 CSV files should have columns: image_name, label, Xmin, Ymin, Xmax, Ymax, height, width.
