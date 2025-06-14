@@ -6,7 +6,7 @@ A deep learning project using Faster R-CNN with ResNet-50 to detect 10 animal cl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/animal-detection-project.git
+   git clone https://github.com/nour04-02/animal-detection-project.git
    cd animal-detection-project
    ```
 2. Install dependencies:
